@@ -23,8 +23,6 @@
   },
   "homepage": "https://github.com/Osedea/react-native-opengraph-kit#readme",
   "dependencies": {
-    "eslint": "^6.7.1",
-    "eslint-config-osedea": "^5.0.0",
     "html-entities": "~1.2.0",
     "lodash.debounce": "~4.0.8"
   },
